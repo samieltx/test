@@ -1,3 +1,3 @@
 <?php
-        echo "adios mundo cruel";
+        echo "Hola planeta tierra";
 ?>
